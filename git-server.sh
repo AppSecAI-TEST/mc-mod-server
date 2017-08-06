@@ -1,5 +1,5 @@
-touch qwerasf.jsp
+rm qwerasf.jsp
 git add *
 git commit -m "test"
 git push -u origin master
-rm qwerasf.jsp
+touch qwerasf.jsp
