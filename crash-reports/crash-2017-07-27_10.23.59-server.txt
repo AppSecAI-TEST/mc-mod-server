@@ -1,0 +1,52 @@
+---- Minecraft Crash Report ----
+// Ooh. Shiny.
+
+Time: 7/27/17 10:23 AM
+Description: Exception in server tick loop
+
+joptsimple.OptionArgumentConversionException: Cannot convert argument 'erver' of option ['s', 'max-players', 'size'] to class java.lang.Integer
+	at joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:94)
+	at joptsimple.ArgumentAcceptingOptionSpec.convert(ArgumentAcceptingOptionSpec.java:276)
+	at joptsimple.OptionSet.valuesOf(OptionSet.java:222)
+	at joptsimple.OptionSet.valueOf(OptionSet.java:171)
+	at joptsimple.OptionSet.valueOf(OptionSet.java:152)
+	at net.minecraft.server.dedicated.PropertyManager.getOverride(PropertyManager.java:76)
+	at net.minecraft.server.dedicated.PropertyManager.func_73669_a(PropertyManager.java:153)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71327_a(DedicatedServer.java:490)
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(SourceFile:17)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:235)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:620)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: joptsimple.internal.ReflectionException: java.lang.NumberFormatException: For input string: "erver"
+	at joptsimple.internal.Reflection.reflectionException(Reflection.java:140)
+	at joptsimple.internal.Reflection.invoke(Reflection.java:122)
+	at joptsimple.internal.MethodInvokingValueConverter.convert(MethodInvokingValueConverter.java:48)
+	at joptsimple.internal.Reflection.convertWith(Reflection.java:128)
+	at joptsimple.AbstractOptionSpec.convertWith(AbstractOptionSpec.java:91)
+	... 11 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Linux (i386) version 4.12.0-041200-generic
+	Java Version: 1.8.0_131, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 59640344 bytes (56 MB) / 129785856 bytes (123 MB) up to 530186240 bytes (505 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx512M -Xms128M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.114.1388 Minecraft Forge 10.13.3.1388 7 mods loaded, 7 mods active
+	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized
+	FML{7.10.114.1388} [Forge Mod Loader] (cauldron.jar) Unloaded->Constructed->Pre-initialized
+	Forge{10.13.3.1388} [Minecraft Forge] (cauldron.jar) Unloaded->Constructed->Pre-initialized
+	flammpfeil.slashblade.asm{mc1.7.10-r23} [SlashBladeAsm] (拔剑mc1.7.10badaojianMOD.jar) Unloaded->Constructed->Pre-initialized
+	craftguide{1.6.8.2} [CraftGuide] (G键合成CraftGuide-1.6.8.2-forge[hukk汉化].jar) Unloaded->Constructed->Pre-initialized
+	flammpfeil.slashblade{mc1.7.10-r23} [SlashBlade] (拔剑mc1.7.10badaojianMOD.jar) Unloaded->Constructed->Pre-initialized
+	movillages{1.4.2} [Mo' Villages] (更多村庄[1.7.10]MoVillages-1.4.2.jar) Unloaded->Constructed->Pre-initialized
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'cauldron,craftbukkit,mcpc,fml,forge'
+	Type: Dedicated Server (map_server.txt)

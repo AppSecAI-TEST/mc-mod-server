@@ -1,0 +1,269 @@
+[01:10:07] [main/INFO] [FML/]: Forge Mod Loader version 7.10.114.1388 for Minecraft 1.7.10 loading
+[01:10:08] [main/INFO] [FML/]: Java is Java HotSpot(TM) Client VM, version 1.8.0_131, running on Linux:i386:4.12.0-041200-generic, installed at /usr/lib/jvm/java-8-oracle/jre
+[01:10:08] [main/WARN] [FML/]: The following coremods do not have a @MCVersion annotation. They may cause problems if this is not the correct version of Minecraft for them.
+[01:10:08] [main/WARN] [FML/]: Missing @MCVersion: mods.flammpfeil.slashblade.asm.CorePlugin  
+[01:10:08] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:10:08] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[01:10:08] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:10:08] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[01:10:08] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:10:11] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:10:11] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[01:10:11] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[01:10:11] [main/INFO] [LaunchWrapper/]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[01:10:11] [main/INFO] [LaunchWrapper/]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[01:10:12] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[01:10:19] [Server thread/INFO] [MinecraftForge/]: Attempting early MinecraftForge initialization
+[01:10:19] [Server thread/INFO] [FML/]: MinecraftForge v10.13.3.1388 Initialized
+[01:10:19] [Server thread/INFO] [FML/]: Replaced 183 ore recipies
+[01:10:19] [Server thread/INFO] [FML/]: Preloading CrashReport classes
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$1
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$2
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$3
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.World$4
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.chunk.Chunk$1
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$1
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$2
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.crash.CrashReportCategory$3
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.entity.Entity$1
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.entity.Entity$2
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.entity.EntityTracker$1
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.layer.GenLayer$1
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.layer.GenLayer$2
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.entity.player.InventoryPlayer$1
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$1
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$2
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.gen.structure.MapGenStructure$3
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$3
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$4
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.server.MinecraftServer$5
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.nbt.NBTTagCompound$1
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.nbt.NBTTagCompound$2
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.network.NetHandlerPlayServer$2
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.network.NetworkSystem$3
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$1
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$2
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.tileentity.TileEntity$3
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$1
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$2
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$3
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$4
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$5
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$6
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$7
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$8
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.world.storage.WorldInfo$9
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.server.dedicated.DedicatedServer$3
+[01:10:19] [Server thread/INFO] [FML/]: 	net.minecraft.server.dedicated.DedicatedServer$4
+[01:10:19] [Server thread/INFO] [MinecraftForge/]: Completed early MinecraftForge initialization
+[01:10:20] [Server thread/INFO] [FML/]: Searching /home/ubuntu/mc-mod-server/mods for mods
+[01:10:20] [Server thread/INFO] [FML/]: Forge Mod Loader has identified 7 mods to load
+[01:10:20] [Server thread/INFO] [FML/]: FML has found a non-mod file 多彩聊天colorchat-1.11.2-2.0.42-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[01:10:20] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, flammpfeil.slashblade.asm, craftguide, flammpfeil.slashblade, movillages] at CLIENT
+[01:10:20] [Server thread/INFO] [FML/FML]: Attempting connection with missing mods [mcp, FML, Forge, flammpfeil.slashblade.asm, craftguide, flammpfeil.slashblade, movillages] at SERVER
+[01:10:21] [Server thread/INFO] [FML/]: Processing ObjectHolder annotations
+[01:10:21] [Server thread/INFO] [FML/]: Found 341 ObjectHolder annotations
+[01:10:21] [Server thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
+[01:10:21] [Server thread/INFO] [FML/movillages]: [MoVillages] Generated Village Customization Config!
+[01:10:21] [Server thread/INFO] [FML/]: Applying holder lookups
+[01:10:21] [Server thread/INFO] [FML/]: Holder lookups applied
+[01:10:22] [Server thread/INFO] [Minecraft/]: This server is running Cauldron-MCPC-Plus version git-Cauldron-Reloaded-1.7.10-1.1388.1.0 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[01:10:22] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[01:10:22] [Server thread/WARN] [FML/]: =============================================================
+[01:10:22] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[01:10:22] [Server thread/WARN] [FML/]: Offendor: org/spigotmc/RestartCommand.restart()V
+[01:10:22] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[01:10:22] [Server thread/WARN] [FML/]: =============================================================
+[01:10:22] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[01:10:23] [Server thread/INFO] [FML/Forge]:   Unknown recipe class! mods.flammpfeil.slashblade.item.crafting.RecipeBladeSoulUpgrade Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[01:10:23] [Server thread/INFO] [FML/]: Forge Mod Loader has successfully loaded 7 mods
+[01:10:23] [Server thread/INFO] [FML/]: Injecting existing block and item data into this server instance
+[01:10:23] [Server thread/INFO] [FML/]: Applying holder lookups
+[01:10:23] [Server thread/INFO] [FML/]: Holder lookups applied
+[01:10:23] [Server thread/INFO] [FML/]: Injected new Forge item material CRAFTGUIDE_CRAFTGUIDE_ITEM with ID 4096.
+[01:10:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADESILVERBAMBOOLIGHT with ID 4211.
+[01:10:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADEWOOD with ID 4212.
+[01:10:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADEWRAPPER with ID 4213.
+[01:10:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADEBAMBOOLIGHT with ID 4214.
+[01:10:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADE with ID 4215.
+[01:10:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADEWHITE with ID 4216.
+[01:10:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEILSLASHBLADE_PROUDSOUL with ID 4217.
+[01:10:23] [Server thread/INFO] [FML/]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADENAMED with ID 4218.
+[01:10:24] [Server thread/INFO] [/]: Mapping loaded 11 packages, 7841 classes, 26711 fields, 53884 methods, flags 1ffa
+[01:10:24] [Server thread/INFO] [/]: Loaded inheritance map of 895 classes
+[01:10:24] [Server thread/WARN] [FML/]: =============================================================
+[01:10:24] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[01:10:24] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[01:10:24] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[01:10:24] [Server thread/WARN] [FML/]: =============================================================
+[01:10:24] [Server thread/WARN] [FML/]: =============================================================
+[01:10:24] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[01:10:24] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[01:10:24] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[01:10:24] [Server thread/WARN] [FML/]: =============================================================
+[01:10:24] [Server thread/WARN] [FML/]: =============================================================
+[01:10:24] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[01:10:24] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[01:10:24] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[01:10:24] [Server thread/WARN] [FML/]: =============================================================
+[01:10:24] [Server thread/WARN] [FML/]: =============================================================
+[01:10:24] [Server thread/WARN] [FML/]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[01:10:24] [Server thread/WARN] [FML/]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[01:10:24] [Server thread/WARN] [FML/]: Use FMLCommonHandler.exitJava instead
+[01:10:24] [Server thread/WARN] [FML/]: =============================================================
+[01:10:24] [Server thread/INFO] [MOTDColor.MOTDColor/]: [MOTDColor] Loading MOTDColor v0.5
+[01:10:25] [Server thread/INFO] [FML/]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@679916)
+[01:10:25] [Server thread/INFO] [FML/]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@679916)
+[01:10:25] [Server thread/INFO] [FML/]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@679916)
+[01:10:27] [Server thread/INFO] [MOTDColor.MOTDColor/]: [MOTDColor] Enabling MOTDColor v0.5
+[01:10:27] [Server thread/INFO] [MOTDColor.MOTDColor/]: [MOTDColor] MOTDColor event priority: NORMAL
+[01:10:27] [Server thread/INFO] [MOTDColor.MOTDColor/]: [MOTDColor] MOTDColor: icon url loaded.
+[01:10:30] [Server thread/INFO] [MOTDColor.MOTDColor/]: [MOTDColor] MOTDColor: icon loaded.
+[01:10:30] [Server thread/INFO] [MOTDColor.MOTDColor/]: [MOTDColor] MOTDColor enabled!
+[01:10:30] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[01:10:30] [Server thread/WARN] [/]: java.lang.InstantiationException
+[01:10:30] [Server thread/WARN] [/]: 	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48)
+[01:10:30] [Server thread/WARN] [/]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[01:10:30] [Server thread/WARN] [/]: 	at net.minecraft.entity.EntityList.func_75620_a(EntityList.java:121)
+[01:10:30] [Server thread/WARN] [/]: 	at mods.flammpfeil.slashblade.ConfigEntityListManager.onWorldTickEvent(ConfigEntityListManager.java:69)
+[01:10:30] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_8_ConfigEntityListManager_onWorldTickEvent_WorldTickEvent.invoke(.dynamic)
+[01:10:30] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+[01:10:30] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:138)
+[01:10:30] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:272)
+[01:10:30] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:914)
+[01:10:30] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:430)
+[01:10:30] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:798)
+[01:10:30] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:658)
+[01:10:30] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[01:10:30] [Server thread/WARN] [/]: java.lang.InstantiationException
+[01:10:30] [Server thread/WARN] [/]: 	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48)
+[01:10:30] [Server thread/WARN] [/]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[01:10:30] [Server thread/WARN] [/]: 	at net.minecraft.entity.EntityList.func_75620_a(EntityList.java:121)
+[01:10:30] [Server thread/WARN] [/]: 	at mods.flammpfeil.slashblade.ConfigEntityListManager.onWorldTickEvent(ConfigEntityListManager.java:69)
+[01:10:30] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_8_ConfigEntityListManager_onWorldTickEvent_WorldTickEvent.invoke(.dynamic)
+[01:10:30] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+[01:10:30] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:138)
+[01:10:30] [Server thread/WARN] [/]: 	at cpw.mods.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:272)
+[01:10:30] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:914)
+[01:10:30] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:430)
+[01:10:30] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:798)
+[01:10:30] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:658)
+[01:10:30] [Server thread/WARN] [/]: 	at java.lang.Thread.run(Thread.java:748)
+[14:48:45] [Netty IO #1/INFO] [FML/]: Client protocol version 1
+[14:48:45] [Netty IO #1/INFO] [FML/]: Client attempting to join with 28 mods : NotEnoughItems@1.0.3.51,Fontsfix@1.1,Waila@1.5.4a,NEIAddons@1.12.2.9,Forge@10.13.1.1217,NEIAddons|Botany@1.12.2.9,MoreEnchants@1.3.0,CodeChickenCore@1.0.3.23,lifegauge@0.1.3,DungeonPack@1.7.2-2.0,mcp@9.05,craftguide@1.6.8.2,InputFix@1.7.10-v5,FML@7.10.84.1217,NEIAddons|Forestry@1.12.2.9,llibrary@0.7.2,NEIPlugins@1.1.0.8-unofficial,DurabilityShow@1.2.0,TwilightForest@2.3.2,mod_ecru_MapleTree@1.1.28b,NEIAddons|CraftingTables@1.12.2.9,NEIAddons|ExNihilo@1.12.2.9,armorchroma@1.2,voxelmap@1.7.10,weaponmod@1.7.2 v1.14.2,flammpfeil.slashblade.asm@mc1.7.10-r23,flammpfeil.slashblade@mc1.7.10-r23,movillages@1.4.2
+[14:48:45] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[14:48:45] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[14:49:33] [Netty IO #3/INFO] [FML/]: Client protocol version 1
+[14:49:33] [Netty IO #3/INFO] [FML/]: Client attempting to join with 28 mods : NotEnoughItems@1.0.3.51,Fontsfix@1.1,Waila@1.5.4a,NEIAddons@1.12.2.9,Forge@10.13.1.1217,NEIAddons|Botany@1.12.2.9,MoreEnchants@1.3.0,CodeChickenCore@1.0.3.23,lifegauge@0.1.3,DungeonPack@1.7.2-2.0,mcp@9.05,craftguide@1.6.8.2,InputFix@1.7.10-v5,FML@7.10.84.1217,NEIAddons|Forestry@1.12.2.9,llibrary@0.7.2,NEIPlugins@1.1.0.8-unofficial,DurabilityShow@1.2.0,TwilightForest@2.3.2,mod_ecru_MapleTree@1.1.28b,NEIAddons|CraftingTables@1.12.2.9,NEIAddons|ExNihilo@1.12.2.9,armorchroma@1.2,voxelmap@1.7.10,weaponmod@1.7.2 v1.14.2,flammpfeil.slashblade.asm@mc1.7.10-r23,flammpfeil.slashblade@mc1.7.10-r23,movillages@1.4.2
+[14:49:33] [Netty IO #3/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[14:49:33] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[14:50:11] [Server thread/INFO] [/]: CONSOLE: Opped ddv12138[m
+[14:50:27] [Server thread/INFO] [/]: CONSOLE: Opped ddvv12138[m
+[14:53:00] [Server thread/INFO] [/]: There are 0/20 players online:
+[m
+[14:53:02] [Server thread/INFO] [/]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[14:53:02] [Server thread/INFO] [/]: [0;37;22mUse /help [n] to get page n of help.[m
+[14:53:02] [Server thread/INFO] [/]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[14:53:02] [Server thread/INFO] [/]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[14:53:02] [Server thread/INFO] [/]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[14:53:02] [Server thread/INFO] [/]: [0;33;22mMOTDColor: [0;37;1mAll commands for MOTDColor[m
+[14:53:02] [Server thread/INFO] [/]: [0;33;22m/achievement: [0;37;1mGives the specified player an achievement or changes a statistic value. Use '*' to give all achievements.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/ban: [0;37;1mPrevents the specified player from using this server[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/ban-ip: [0;37;1mPrevents the specified IP address from using this server[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/banlist: [0;37;1mView all players banned from this server[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/cauldron: [0;37;1mToggle certain Cauldron options[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/cauldron_te: [0;37;1mToggle certain TileEntity options[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/clear: [0;37;1mClears the player's inventory. Can specify item and data filters too.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/defaultgamemode: [0;37;1mSet the default gamemode[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/deop: [0;37;1mTakes the specified player's operator status[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/difficulty: [0;37;1mSets the game difficulty[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/effect: [0;37;1mAdds/Removes effects on players[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/enchant: [0;37;1mAdds enchantments to the item the player is currently holding. Specify 0 for the level to remove an enchantment. Specify force to ignore normal enchantment restrictions[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/gamemode: [0;37;1mChanges the player to a specific game mode[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/gamerule: [0;37;1mSets a server's game rules[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/give: [0;37;1mGives the specified player a certain amount of items[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/kick: [0;37;1mRemoves the specified player from the server[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/kill: [0;37;1mCommits suicide, only usable as a player[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/list: [0;37;1mLists all online players[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/me: [0;37;1mPerforms the specified action in chat[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:achievement: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:ban: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:ban-ip: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:banlist: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:clear: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:defaultgamemode: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:deop: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:difficulty: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:effect: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:enchant: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:gamemode: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:gamerule: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:give: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:kick: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:kill: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:list: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:me: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:op: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:pardon: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:pardon-ip: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:playsound: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:say: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:scoreboard: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:seed: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:setidletimeout: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:setworldspawn: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:spawnpoint: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:spreadplayers: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:tell: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:testfor: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:time: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:toggledownfall: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:tp: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:weather: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:whitelist: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/minecraft:xp: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/motdc: [0;37;1mChange your motdc[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/motdcformat: [0;37;1mFormat codes[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/motdcicon: [0;37;1mLoad icon MOTDColor[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/motdcreload: [0;37;1mReload MOTDColor[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/netstat: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/op: [0;37;1mGives the specified player operator status[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/pardon: [0;37;1mAllows the specified player to use this server[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/pardon-ip: [0;37;1mAllows the specified IP address to use this server[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/playsound: [0;37;1mPlays a sound to a given player[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/restart: [0;37;1mRestarts the server[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/save-all: [0;37;1mSaves the server to disk[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/save-off: [0;37;1mDisables server autosaving[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/save-on: [0;37;1mEnables server autosaving[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/say: [0;37;1mBroadcasts the given message as the sender[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/scoreboard: [0;37;1mScoreboard control[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/seed: [0;37;1mShows the world seed[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/setidletimeout: [0;37;1mSets the server's idle timeout[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/setworldspawn: [0;37;1mSets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/spawnpoint: [0;37;1mSets a player's spawn point[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/spreadplayers: [0;37;1mSpreads players around a point[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/stop: [0;37;1mStops the server with optional reason[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/tell: [0;37;1mSends a private message to the given player[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/testfor: [0;37;1mTests whether a specifed player is online[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/testforblock: [0;37;1mA Mojang provided command.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/time: [0;37;1mChanges the time on each world[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/toggledownfall: [0;37;1mToggles rain on/off on a given world[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/tp: [0;37;1mTeleports the given player (or yourself) to another player or coordinates[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/weather: [0;37;1mChanges the weather[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/whitelist: [0;37;1mManages the list of players allowed to use this server[m
+[14:53:03] [Server thread/INFO] [/]: [0;33;22m/xp: [0;37;1mGives the specified player a certain amount of experience. Specify <amount>L to give levels instead, with a negative amount resulting in taking levels.[m
+[14:55:41] [Server thread/INFO] [/]: [0;33;22mTPS from last 1m, 5m, 15m: [0;32;1m19.87, [0;32;1m19.93, [0;32;1m19.96[m
+[18:48:29] [Netty IO #1/INFO] [FML/]: Client protocol version 2
+[18:48:29] [Netty IO #1/INFO] [FML/]: Client attempting to join with 14 mods : InputFix@1.7.10-v5,FML@7.10.99.99,llibrary@0.7.2,Forge@10.13.4.1614,DurabilityShow@1.2.0,armorchroma@1.2,voxelmap@1.7.10,lifegauge@0.1.3,XaeroMinimap@1.12.3,flammpfeil.slashblade.asm@mc1.7.10-r23,flammpfeil.slashblade@mc1.7.10-r23,mcp@9.05,movillages@1.4.2,craftguide@1.6.8.2
+[18:48:29] [Netty IO #1/INFO] [FML/]: Attempting connection with missing mods [] at CLIENT
+[18:48:29] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established

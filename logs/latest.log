@@ -1,0 +1,194 @@
+[19:10:32] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[19:10:32] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[19:10:32] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[19:10:32] [main/INFO]: Forge Mod Loader version 7.10.114.1388 for Minecraft 1.7.10 loading
+[19:10:33] [main/INFO]: Java is Java HotSpot(TM) Client VM, version 1.8.0_131, running on Linux:i386:4.12.0-041200-generic, installed at /usr/lib/jvm/java-8-oracle/jre
+[19:10:33] [main/WARN]: The following coremods do not have a @MCVersion annotation. They may cause problems if this is not the correct version of Minecraft for them.
+[19:10:33] [main/WARN]: Missing @MCVersion: mods.flammpfeil.slashblade.asm.CorePlugin  
+[19:10:33] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:10:33] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[19:10:33] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:10:33] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:10:33] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:10:35] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:10:35] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:10:35] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[19:10:36] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[19:10:36] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[19:10:36] [main/INFO]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:10:44] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[19:10:44] [Server thread/INFO]: Attempting early MinecraftForge initialization
+[19:10:44] [Server thread/INFO]: MinecraftForge v10.13.3.1388 Initialized
+[19:10:44] [Server thread/INFO]: Replaced 183 ore recipies
+[19:10:44] [Server thread/INFO]: Preloading CrashReport classes
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.World$1
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.World$2
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.World$3
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.World$4
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.chunk.Chunk$1
+[19:10:44] [Server thread/INFO]: 	net.minecraft.crash.CrashReportCategory$1
+[19:10:44] [Server thread/INFO]: 	net.minecraft.crash.CrashReportCategory$2
+[19:10:44] [Server thread/INFO]: 	net.minecraft.crash.CrashReportCategory$3
+[19:10:44] [Server thread/INFO]: 	net.minecraft.entity.Entity$1
+[19:10:44] [Server thread/INFO]: 	net.minecraft.entity.Entity$2
+[19:10:44] [Server thread/INFO]: 	net.minecraft.entity.EntityTracker$1
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.gen.layer.GenLayer$1
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.gen.layer.GenLayer$2
+[19:10:44] [Server thread/INFO]: 	net.minecraft.entity.player.InventoryPlayer$1
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.gen.structure.MapGenStructure$1
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.gen.structure.MapGenStructure$2
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.gen.structure.MapGenStructure$3
+[19:10:44] [Server thread/INFO]: 	net.minecraft.server.MinecraftServer$3
+[19:10:44] [Server thread/INFO]: 	net.minecraft.server.MinecraftServer$4
+[19:10:44] [Server thread/INFO]: 	net.minecraft.server.MinecraftServer$5
+[19:10:44] [Server thread/INFO]: 	net.minecraft.nbt.NBTTagCompound$1
+[19:10:44] [Server thread/INFO]: 	net.minecraft.nbt.NBTTagCompound$2
+[19:10:44] [Server thread/INFO]: 	net.minecraft.network.NetHandlerPlayServer$2
+[19:10:44] [Server thread/INFO]: 	net.minecraft.network.NetworkSystem$3
+[19:10:44] [Server thread/INFO]: 	net.minecraft.tileentity.TileEntity$1
+[19:10:44] [Server thread/INFO]: 	net.minecraft.tileentity.TileEntity$2
+[19:10:44] [Server thread/INFO]: 	net.minecraft.tileentity.TileEntity$3
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$1
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$2
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$3
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$4
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$5
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$6
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$7
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$8
+[19:10:44] [Server thread/INFO]: 	net.minecraft.world.storage.WorldInfo$9
+[19:10:44] [Server thread/INFO]: 	net.minecraft.server.dedicated.DedicatedServer$3
+[19:10:44] [Server thread/INFO]: 	net.minecraft.server.dedicated.DedicatedServer$4
+[19:10:44] [Server thread/INFO]: Completed early MinecraftForge initialization
+[19:10:44] [Server thread/INFO]: Searching /home/ubuntu/mc-mod-server/mods for mods
+[19:10:45] [Server thread/INFO]: Forge Mod Loader has identified 7 mods to load
+[19:10:45] [Server thread/INFO]: FML has found a non-mod file 多彩聊天colorchat-1.11.2-2.0.42-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[19:10:45] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, flammpfeil.slashblade.asm, craftguide, flammpfeil.slashblade, movillages] at CLIENT
+[19:10:45] [Server thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, flammpfeil.slashblade.asm, craftguide, flammpfeil.slashblade, movillages] at SERVER
+[19:10:46] [Server thread/INFO]: Processing ObjectHolder annotations
+[19:10:46] [Server thread/INFO]: Found 341 ObjectHolder annotations
+[19:10:46] [Server thread/INFO]: Configured a dormant chunk cache size of 0
+[19:10:46] [Server thread/INFO]: [MoVillages] Generated Village Customization Config!
+[19:10:46] [Server thread/INFO]: Applying holder lookups
+[19:10:46] [Server thread/INFO]: Holder lookups applied
+[19:10:46] [Server thread/INFO]: Loading properties
+[19:10:46] [Server thread/INFO]: Default game type: SURVIVAL
+[19:10:46] [Server thread/INFO]: This server is running Cauldron-MCPC-Plus version git-Cauldron-Reloaded-1.7.10-1.1388.1.0 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[19:10:47] [Server thread/WARN]: =============================================================
+[19:10:47] [Server thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[19:10:47] [Server thread/WARN]: Offendor: org/spigotmc/RestartCommand.restart()V
+[19:10:47] [Server thread/WARN]: Use FMLCommonHandler.exitJava instead
+[19:10:47] [Server thread/WARN]: =============================================================
+[19:10:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:10:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:10:47] [Server thread/INFO]: Generating keypair
+[19:10:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:10:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:10:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:10:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:10:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:10:48] [Server thread/INFO]:   Unknown recipe class! mods.flammpfeil.slashblade.item.crafting.RecipeBladeSoulUpgrade Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[19:10:48] [Server thread/INFO]: Forge Mod Loader has successfully loaded 7 mods
+[19:10:48] [Server thread/INFO]: Preparing level "world"
+[19:10:48] [Server thread/INFO]: Registered command debug with permission node vanilla.command.debug
+[19:10:48] [Server thread/INFO]: Registered command spreadplayers with permission node vanilla.command.spreadplayers
+[19:10:48] [Server thread/INFO]: Registered command playsound with permission node vanilla.command.playsound
+[19:10:48] [Server thread/INFO]: Registered command scoreboard with permission node vanilla.command.scoreboard
+[19:10:48] [Server thread/INFO]: Registered command achievement with permission node vanilla.command.achievement
+[19:10:48] [Server thread/INFO]: Registered command summon with permission node vanilla.command.summon
+[19:10:48] [Server thread/INFO]: Registered command setblock with permission node vanilla.command.setblock
+[19:10:48] [Server thread/INFO]: Registered command testforblock with permission node vanilla.command.testforblock
+[19:10:48] [Server thread/INFO]: Registered command tellraw with permission node vanilla.command.tellraw
+[19:10:48] [Server thread/INFO]: Registered command netstat with permission node vanilla.command.netstat
+[19:10:48] [Server thread/INFO]: Injecting existing block and item data into this server instance
+[19:10:48] [Server thread/INFO]: Applying holder lookups
+[19:10:48] [Server thread/INFO]: Holder lookups applied
+[19:10:48] [Server thread/INFO]: Injected new Forge item material CRAFTGUIDE_CRAFTGUIDE_ITEM with ID 4096.
+[19:10:48] [Server thread/INFO]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADESILVERBAMBOOLIGHT with ID 4211.
+[19:10:48] [Server thread/INFO]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADEWOOD with ID 4212.
+[19:10:48] [Server thread/INFO]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADEWRAPPER with ID 4213.
+[19:10:48] [Server thread/INFO]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADEBAMBOOLIGHT with ID 4214.
+[19:10:48] [Server thread/INFO]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADE with ID 4215.
+[19:10:48] [Server thread/INFO]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADEWHITE with ID 4216.
+[19:10:48] [Server thread/INFO]: Injected new Forge item material FLAMMPFEILSLASHBLADE_PROUDSOUL with ID 4217.
+[19:10:48] [Server thread/INFO]: Injected new Forge item material FLAMMPFEILSLASHBLADE_SLASHBLADENAMED with ID 4218.
+[19:10:49] [Server thread/INFO]: Mapping loaded 11 packages, 7841 classes, 26711 fields, 53884 methods, flags 1ffa
+[19:10:49] [Server thread/INFO]: Loaded inheritance map of 895 classes
+[19:10:49] [Server thread/WARN]: =============================================================
+[19:10:49] [Server thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[19:10:49] [Server thread/WARN]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[19:10:49] [Server thread/WARN]: Use FMLCommonHandler.exitJava instead
+[19:10:49] [Server thread/WARN]: =============================================================
+[19:10:49] [Server thread/WARN]: =============================================================
+[19:10:49] [Server thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[19:10:49] [Server thread/WARN]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[19:10:49] [Server thread/WARN]: Use FMLCommonHandler.exitJava instead
+[19:10:49] [Server thread/WARN]: =============================================================
+[19:10:49] [Server thread/WARN]: =============================================================
+[19:10:49] [Server thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[19:10:49] [Server thread/WARN]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[19:10:49] [Server thread/WARN]: Use FMLCommonHandler.exitJava instead
+[19:10:49] [Server thread/WARN]: =============================================================
+[19:10:49] [Server thread/WARN]: =============================================================
+[19:10:49] [Server thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[19:10:49] [Server thread/WARN]: Offendor: net/md_5/specialsource/SpecialSource.main([Ljava/lang/String;)V
+[19:10:49] [Server thread/WARN]: Use FMLCommonHandler.exitJava instead
+[19:10:49] [Server thread/WARN]: =============================================================
+[19:10:49] [Server thread/INFO]: [MOTDColor] Loading MOTDColor v0.5
+[19:10:49] [Server thread/INFO]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@9b9d7c)
+[19:10:50] [Server thread/INFO]: Loading dimension 1 (DIM1) (net.minecraft.server.dedicated.DedicatedServer@9b9d7c)
+[19:10:50] [Server thread/INFO]: Loading dimension -1 (DIM-1) (net.minecraft.server.dedicated.DedicatedServer@9b9d7c)
+[19:10:50] [Server thread/INFO]: Preparing start region for level 0
+[19:10:51] [Server thread/INFO]: Preparing spawn area: 45%
+[19:10:51] [Server thread/INFO]: [MOTDColor] Enabling MOTDColor v0.5
+[19:10:51] [Server thread/INFO]: [MOTDColor] MOTDColor event priority: NORMAL
+[19:10:51] [Server thread/INFO]: [MOTDColor] MOTDColor: icon url loaded.
+[19:10:52] [Server thread/INFO]: [MOTDColor] MOTDColor: icon loaded.
+[19:10:52] [Server thread/INFO]: [MOTDColor] MOTDColor enabled!
+[19:10:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:10:52] [Server thread/INFO]: Done (4.643s)! For help, type "help" or "?"
+[19:10:52] [Server thread/INFO]: Registered command forge with permission node net.minecraftforge.server.command.ForgeCommand
+[19:10:52] [Server thread/WARN]: java.lang.InstantiationException
+[19:10:52] [Server thread/WARN]: 	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48)
+[19:10:52] [Server thread/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[19:10:52] [Server thread/WARN]: 	at net.minecraft.entity.EntityList.func_75620_a(EntityList.java:121)
+[19:10:52] [Server thread/WARN]: 	at mods.flammpfeil.slashblade.ConfigEntityListManager.onWorldTickEvent(ConfigEntityListManager.java:69)
+[19:10:52] [Server thread/WARN]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_8_ConfigEntityListManager_onWorldTickEvent_WorldTickEvent.invoke(.dynamic)
+[19:10:52] [Server thread/WARN]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+[19:10:52] [Server thread/WARN]: 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:138)
+[19:10:52] [Server thread/WARN]: 	at cpw.mods.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:272)
+[19:10:52] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:914)
+[19:10:52] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:430)
+[19:10:52] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:798)
+[19:10:52] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:658)
+[19:10:52] [Server thread/WARN]: 	at java.lang.Thread.run(Thread.java:748)
+[19:10:52] [Server thread/WARN]: java.lang.InstantiationException
+[19:10:52] [Server thread/WARN]: 	at sun.reflect.InstantiationExceptionConstructorAccessorImpl.newInstance(InstantiationExceptionConstructorAccessorImpl.java:48)
+[19:10:52] [Server thread/WARN]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+[19:10:52] [Server thread/WARN]: 	at net.minecraft.entity.EntityList.func_75620_a(EntityList.java:121)
+[19:10:52] [Server thread/WARN]: 	at mods.flammpfeil.slashblade.ConfigEntityListManager.onWorldTickEvent(ConfigEntityListManager.java:69)
+[19:10:52] [Server thread/WARN]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler_8_ConfigEntityListManager_onWorldTickEvent_WorldTickEvent.invoke(.dynamic)
+[19:10:52] [Server thread/WARN]: 	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+[19:10:52] [Server thread/WARN]: 	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:138)
+[19:10:52] [Server thread/WARN]: 	at cpw.mods.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:272)
+[19:10:52] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:914)
+[19:10:52] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:430)
+[19:10:52] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:798)
+[19:10:52] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:658)
+[19:10:52] [Server thread/WARN]: 	at java.lang.Thread.run(Thread.java:748)
+[19:10:58] [Server thread/INFO]: There are 0/20 players online:
+[m
+[19:11:09] [Server thread/INFO]: There are 0/20 players online:
+[m
+[19:11:10] [Server thread/INFO]: There are 0/20 players online:
+[m
+[19:11:11] [Server thread/INFO]: There are 0/20 players online:
+[m
+[19:11:34] [User Authenticator #1/INFO]: UUID of player wendaoguangli is dcf94d57-bacf-345f-84d5-66bd25f637d2
+[19:11:35] [Netty IO #2/INFO]: Client protocol version 2
+[19:11:35] [Netty IO #2/INFO]: Client attempting to join with 14 mods : InputFix@1.7.10-v5,FML@7.10.99.99,llibrary@0.7.2,Forge@10.13.4.1614,DurabilityShow@1.2.0,armorchroma@1.2,voxelmap@1.7.10,lifegauge@0.1.3,XaeroMinimap@1.12.3,flammpfeil.slashblade.asm@mc1.7.10-r23,flammpfeil.slashblade@mc1.7.10-r23,mcp@9.05,movillages@1.4.2,craftguide@1.6.8.2
+[19:11:35] [Netty IO #2/INFO]: Attempting connection with missing mods [] at CLIENT
+[19:11:35] [Server thread/INFO]: [Server thread] Server side modded connection established
+[19:11:35] [Server thread/INFO]: wendaoguangli[/219.140.54.149:56410] logged in with entity id 176 at ([world] -231.6180931925489, 61.1002783442592, 640.2846211721458)
+[19:18:33] [Server thread/INFO]: wendaoguangli lost connection: Disconnected
+[19:18:33] [Server thread/INFO]: wendaoguangli left the game.
